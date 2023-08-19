@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Frutasku</string>
+    <string name="fruits_name">Fruits</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Search</string>
+
+    <string name="name">Fitria Widyani</string>
+    <string name="email">fitrianiwidyaf@gmail.com</string>
+    <string name="about">About Me</string>
+
+
+    <string-array name="data_name">
+        <item>Buah Naga</item>
+        <item>Pisang</item>
+        <item>Semangka</item>
+        <item>Mangga</item>
+        <item>Anggur</item>
+        <item>Kiwi</item>
+        <item>Melon</item>
+        <item>Nanas</item>
+        <item>Stroberi</item>
+        <item>Alpukat</item>
+        <item>Salak</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Buah naga adalah sejenis buah yang berasal dari beberapa spesies kaktus yang termasuk dalam genus Hylocereus dan Selenicereus. Buah ini juga dikenal dengan nama pitaya. Buah naga memiliki bentuk yang unik dan menarik, dengan kulit berduri atau bersisik yang biasanya berwarna merah, merah muda, kuning, atau putih.</item>
+        <item>Pisang adalah salah satu jenis buah yang berasal dari tanaman pisang, yang termasuk dalam keluarga Musaceae. Buah pisang memiliki bentuk yang khas, berbentuk silinder atau bulat dan biasanya melengkung. Kulit buah pisang dapat bervariasi warna, seperti kuning, hijau, atau bahkan merah muda, tergantung pada tahap kematangannya dan varietasnya.</item>
+        <item>Semangka adalah jenis buah yang tergolong dalam keluarga Cucurbitaceae, yang juga termasuk dalam keluarga labu-labuan yang sama dengan mentimun dan labu. Buah semangka memiliki kulit keras dan berwarna hijau dengan garis-garis atau bercak-bercak yang berwarna gelap. Daging buahnya berwarna merah muda hingga merah, tergantung pada varietasnya, dan mengandung banyak air.</item>
+        <item>Mangga adalah buah tropis yang tumbuh pada pohon mangga (Mangifera indica). Buah ini memiliki kulit yang bervariasi dari warna hijau, kuning, oranye, hingga merah, tergantung pada jenisnya. Daging buah mangga umumnya lembut dan berair, dengan rasa manis yang khas. Mangga sering dijadikan buah segar, diolah menjadi jus, dikeringkan menjadi manisan, atau digunakan dalam hidangan makanan dan penutup. Buah mangga dikenal di seluruh dunia dan sangat populer dalam berbagai masakan Asia dan internasional.</item>
+        <item>Anggur adalah buah yang biasanya tumbuh dalam kelompok di pohon anggur (Vitis vinifera). Buah ini dapat berwarna hijau, merah, ungu, atau hitam tergantung pada jenisnya. Anggur dapat dimakan langsung, dijadikan jus, atau diolah menjadi wine dan produk-produk lainnya.</item>
+        <item>Kiwi adalah buah kecil dengan kulit cokelat berbulu dan daging berwarna hijau atau kuning. Buah ini memiliki rasa segar dan asam manis. Kiwi kaya akan vitamin C dan serat, dan dapat dimakan langsung atau digunakan dalam berbagai hidangan.</item>
+        <item>Melon adalah kelompok buah dengan berbagai jenis, seperti melon cantaloupe, melon honeydew, dan lain-lain. Buah melon memiliki daging yang lembut dan manis, biasanya dimakan langsung sebagai buah segar atau dijadikan campuran dalam salad buah.</item>
+        <item>Nanas adalah buah tropis yang tumbuh pada tanaman nanas (Ananas comosus). Buah ini memiliki kulit yang berduri dan daging berwarna kuning atau kuning pucat. Nanas memiliki rasa manis dengan sentuhan keasaman yang khas. Buah nanas sering dimakan segar, diolah menjadi jus, atau digunakan dalam berbagai hidangan seperti salad, pencuci mulut, atau masakan.</item>
+        <item>Stroberi adalah buah yang tumbuh pada tanaman stroberi (Fragaria). Buah ini memiliki warna merah cerah dan bentuk yang kecil hingga sedang, sering kali berlubang-lubang kecil pada permukaannya. Stroberi memiliki rasa manis dan sedikit asam, dan sangat populer sebagai buah segar atau sebagai bahan dalam berbagai hidangan dan makanan penutup.</item>
+        <item>Alpukat adalah buah dengan kulit hijau gelap dan daging berwarna kuning atau hijau lembut. Buah ini memiliki kandungan lemak sehat yang tinggi dan sering digunakan dalam hidangan seperti guacamole atau sebagai bahan dalam salad.</item>
+        <item>Salak adalah buah tropis yang memiliki kulit merah atau cokelat dengan sisik-sisik yang kasar. Daging buah salak umumnya manis dan renyah, dan sering dimakan langsung atau diolah menjadi manisan.</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>Rp. 38.700</item>
+        <item>Rp. 17.500</item>
+        <item>Rp. 46.500</item>
+        <item>Rp. 62.999</item>
+        <item>Rp. 37.500</item>
+        <item>Rp. 25.000</item>
+        <item>Rp. 17.500</item>
+        <item>Rp. 11.500</item>
+        <item>Rp. 26.500</item>
+        <item>Rp. 20.000</item>
+        <item>Rp. 10.000</item>
+    </string-array>
+
+    <string-array name="data_store">
+        <item>Tokopedia</item>
+        <item>Shopee</item>
+        <item>Tokopedia</item>
+        <item>Shopee</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+        <item>Tokopedia</item>
+
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://www.tokopedia.com/sayurbox/buah-naga-merah-konvensional-1-kg-sayurbox</item>
+        <item>https://shopee.co.id/xtralen_shop/6237407310</item>
+        <item>https://www.tokopedia.com/sayurbox/buah-semangka-merah-1-pcs-sayurbox?extParam=whid%3D2176716</item>
+        <item>https://shopee.co.id/twerk_/23367339162</item>
+        <item>https://www.tokopedia.com/orcajoss/bibit-anggur-merah-cepat-berbuah?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/sayurbox/buah-kiwi-import-2-pcs-sayurbox?extParam=ivf%3Dfalse&amp;src=topads</item>
+        <item>https://www.tokopedia.com/buahboss/melon?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/buahboss/nanas-bogor-manis-9500?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/moodberries/strawberry-fresh-mini-1000-gr</item>
+        <item>https://www.tokopedia.com/aeeshastore-1/buah-alpukat-mentega-500gr-alpuket-mentega?extParam=ivf%3Dfalse%26src%3Dsearch</item>
+        <item>https://www.tokopedia.com/masjokobuah/salak-pondoh-sleman-manis-1kg-kecil?extParam=ivf%3Dfalse&amp;src=topads</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/buahnaga</item>
+        <item>@drawable/bana</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/anggur</item>
+        <item>@drawable/kiwi</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/stroberi</item>
+        <item>@drawable/alpukat</item>
+        <item>@drawable/salak</item>
+    </integer-array>
+
+    <integer-array name="data_store_photo">
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/shopee</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/shopee</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+        <item>@drawable/tokopedia</item>
+    </integer-array>
+
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_about">About Me</string>
+
+</resources>
